@@ -16,7 +16,7 @@ hardware. The game platform involves the following components:
 - buzzers: each team is supposed to take part in the game thanks to a
   dedicated arcade button.
 - a web playlist creator ([Neon Beat Playlist
-  Creator]https://neon-beat.github.io/neon-beat-playlist-creator/)
+  Creator](https://neon-beat.github.io/neon-beat-playlist-creator/))
 
 You can find all the related software components source code in this
 organization. The overall project, while being mature enough to allow
