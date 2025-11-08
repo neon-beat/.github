@@ -1,6 +1,6 @@
 # Neon Beat
 
-![Neon Beat](./img/logo.png)
+![Neon Beat](../img/logo.png)
 
 Welcome to the Neon Beat project space !
 
