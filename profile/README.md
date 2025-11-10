@@ -1,6 +1,8 @@
 # Neon Beat
 
+<p align="center">
 <img src="../img/logo.png" width="50%">
+</p>
 
 Welcome to the Neon Beat project space !
 
