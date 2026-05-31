@@ -34,9 +34,7 @@ repository](https://github.com/neon-beat/neon-beat-controller).
 
 ## I want to notify you about a feature request or an issue
 
-We do not have a well-defined process to receive bug notifications or
-feature requests yet, but feel free to open an issue on what you consider
-to be the most relevant repository in the Neon Beat organization. Please
-bear in mind that the more details you give in your report or request, the
-more chances there are that we will be able to answer it.
+Feel free to open an issue in the 
+[Neon Beat issues repository](https://github.com/neon-beat/issues/) so
+that we can take a look at it !
 
